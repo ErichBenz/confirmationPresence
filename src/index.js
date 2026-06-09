@@ -10,7 +10,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://confirmationinvite.netlify.app",
+    origin: "https://confirmationinvite.netlify.app"
   })
 );
 
